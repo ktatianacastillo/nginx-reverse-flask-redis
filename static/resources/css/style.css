@@ -1,0 +1,20 @@
+body{
+    overflow-x: hidden;
+    height: auto;
+}
+.w-btn{
+    width: 7.8rem;
+}
+.btn.btn-sm{
+    margin: 2px !important;
+}
+body.modal-open { overflow: hidden; }
+.encabezadoPanel {
+    left:50%;
+    position:relative; 
+    bottom:10px;    
+    text-align:center;
+    z-index:0;   
+    height: 1rem;
+    font-weight: bolder; 
+}
